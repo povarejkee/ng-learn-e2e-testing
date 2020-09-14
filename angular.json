@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng-e2e-learning"
+    }
+  },
+  "defaultProject": "ng-e2e-learning",
+  "cli": {
+    "analytics": "4ae5b36f-0e03-4742-bea3-aa44233765e5"
+  }
 }
